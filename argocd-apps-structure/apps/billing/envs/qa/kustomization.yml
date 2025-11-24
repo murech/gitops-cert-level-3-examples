@@ -5,7 +5,7 @@ resources:
 - ../../base
 
 
-patchesStrategicMerge:
+patches:
 - deployment.yml
 - version.yml
 - replicas.yml
